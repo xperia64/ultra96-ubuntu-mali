@@ -1,0 +1,5 @@
+A collection of Debian package templates for Mali with an attempt at depedency resolution based on Ubuntu 18.04
+
+This is set up for Xilinx's libMali r8p0, but can probably be adapted to other board's files
+
+The actual libMali.so.8.0 has been removed for license concerns

@@ -1,0 +1,8 @@
+Package: libgles-mali-dev
+Version: 1.0-r8p0
+Maintainer: None
+Architecture: arm64
+Description: GLES symlinks for libmali -- development files
+Depends: libgles-mali, libmali
+Provides: libegl1-mesa-dev, libgles2-mesa-dev, libgbm-dev
+Conflicts: libglvnd-dev

@@ -1,0 +1,8 @@
+Package: libgles-mali
+Version: 1.0-r8p0
+Maintainer: None
+Architecture: armhf
+Description: GLES symlinks for libmali
+Depends: libmali
+Provides: libgbm1, libgles1, libgles2, libwayland-egl1-mesa
+Conflicts: libglvnd-dev

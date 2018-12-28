@@ -1,0 +1,7 @@
+Package: libmali
+Version: 1.0-r8p0
+Maintainer: None
+Architecture: arm64
+Description: libMali package from Xilinx's petalinux
+Depends: libwayland-client0, libwayland-server0
+Recommends: libmali-rules

@@ -1,0 +1,5 @@
+# Add mali to the video group
+KERNEL=="mali", GROUP="video"
+
+#The first framebuffer is symlinked to /dev/fb
+KERNEL=="fb0",  SYMLINK+="fb"

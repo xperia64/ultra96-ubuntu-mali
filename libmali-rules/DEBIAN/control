@@ -1,0 +1,5 @@
+Package: libmali-rules
+Version: 1.0-r8p0
+Maintainer: None
+Architecture: all
+Description: udev rules for mali devices
