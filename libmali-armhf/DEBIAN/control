@@ -5,3 +5,4 @@ Architecture: armhf
 Description: libMali package from Xilinx's petalinux
 Depends: libwayland-client0, libwayland-server0
 Recommends: libmali-rules
+Multi-arch: same
